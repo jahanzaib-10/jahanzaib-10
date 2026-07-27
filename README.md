@@ -7,7 +7,7 @@ AI/ML Enthusiast | BS Artificial Intelligence Student
 I'm a BS Artificial Intelligence student with a strong foundation in C++, OOP, and Data Structures & Algorithms. I'm currently building my skills in Machine Learning and Deep Learning, and I've completed a Machine Learning course on Coursera. I enjoy working on hands-on data science projects.
 
 * 🌍  I'm based in Islamabad, Pakistan
-* ✉️  You can contact me at [muhammadjahanzaibazhar@gmail.cpm](mailto:muhammadjahanzaibazhar@gmail.cpm)
+* ✉️  You can contact me at [muhammadjahanzaibazhar@gmail.cpm](mailto:muhammadjahanzaibazhar@gmail.com)
 * 🚀  I'm currently working on [Machine Learning & Deep Learning Projects](http://https://github.com/jahanzaib-10)
 * 🧠  I'm currently learning Artificial Intelligence and Machine Learning
 * 👥  I'm looking to collaborate on beginner-friendly AI/ML projects
