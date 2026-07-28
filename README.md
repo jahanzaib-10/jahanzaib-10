@@ -22,11 +22,6 @@ Email Me 👉 ✉️ **muhammadjahanzaibazhar@gmail.com** For Collaboration/Proj
 
 [![](https://visitcount.itsvg.in/api?id=jahanzaib-10&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jahanzaib-10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -42,6 +37,11 @@ Email Me 👉 ✉️ **muhammadjahanzaibazhar@gmail.com** For Collaboration/Proj
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/jahanzaib-10) 
+<p align="center">
+  <a href="https://github.com/jahanzaib-10/jahanzaib-10">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjahanzaib-10%2Fjahanzaib-10&countColor=%23263759" alt="Visitor Count" />
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
