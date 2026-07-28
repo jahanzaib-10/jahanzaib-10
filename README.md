@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Jahanzaib Azhar
 =================================================================================================================================================
-
 ### AI/ML Enthusiast | BS Artificial Intelligence Student
  
 I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation in C++, Object-Oriented Programming, and Data Structures & Algorithms. I'm currently building my skills in Artificial Intelligence, Machine Learning and Deep Learning, and I've completed a Machine Learning course on Coursera. I enjoy working on hands-on data science projects to grow as an AI/ML engineer.
@@ -45,14 +44,4 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 <a href="https://www.github.com/jahanzaib-10" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>
-</p>
----
- 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-10&show_icons=true&count_private=true&theme=vue-dark" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jahanzaib-10&theme=dark" />
 </p>
