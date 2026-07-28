@@ -46,7 +46,7 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 ## 📊 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahanzaib-10&theme=radical&hide_border=true&radius=16" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
