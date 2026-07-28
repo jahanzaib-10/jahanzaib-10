@@ -1,4 +1,4 @@
-# Hi! My name is Muhammad Jahanzaib Azhar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Jahanzaib Azhar
 =================================================================================================================================================
 
 ### AI/ML Enthusiast | BS Artificial Intelligence Student
@@ -8,7 +8,7 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 - 🌍 I'm based in **Islamabad, Pakistan**
 - ✉️ You can contact me at **muhammadjahanzaibazhar@gmail.com**
 - 🚀 I'm currently working on **AI, Machine Learning, and Deep Learning projects using Python**
-- 🧠 I'm currently learning **Artificial Intelligence, Machine Learning, Deep Learning, and advanced Python**
+- 🧠 I'm currently learning **Artificial Intelligence,Machine Learning, Deep Learning, and advanced Python**
 - 👯 I'm looking to collaborate on **beginner-friendly AI/ML projects**
 - 🤝 I'm looking for help with **Deep Learning and Neural Networks**
 - 💬 Ask me about **C++, OOP, Data Structures & Algorithms, Artificial Intelligence, and Machine Learning basics**
@@ -57,3 +57,13 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-10&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="60%" />
 </p>
+**Top Repositories**
+ 
+<div align="center">
+<a href="https://github.com/jahanzaib-10/ai-day4-feature-engineering-ml-jahanzaib">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jahanzaib-10&repo=ai-day4-feature-engineering-ml-jahanzaib&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/jahanzaib-10/ai-day3-eda-project">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jahanzaib-10&repo=ai-day3-eda-project&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
