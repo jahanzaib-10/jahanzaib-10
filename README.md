@@ -43,12 +43,18 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 
 ---
 
-## 📊 GitHub Contribution Graph
+## 📊 GitHub Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-10&theme=dark&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-10&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </picture>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=jahanzaib-10&theme=radical" alt="Profile Summary Card" />
+</div>
 ---
 
 ## 🏆 GitHub Trophies
