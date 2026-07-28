@@ -9,7 +9,6 @@ Email Me 👉 ✉️ **muhammadjahanzaibazhar@gmail.com** For Collaboration/Proj
 - 🤔 **I’m looking for help with:** Deep Learning and Neural Networks
 - 💬 **Ask me about:** C++, OOP, Data Structures & Algorithms, Artificial Intelligence, and Machine Learning basics
 - 📫 **How to reach me:** muhammadjahanzaibazhar@gmail.com
-- 😄 **Pronouns:** Jahanzaib
 - ⚡ **Fun fact:** I love coding and building intelligent systems
 
 ## 🚀 Featured Projects:
