@@ -67,7 +67,12 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 ## 🌐 Socials & Stats
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/jahanzaib-10) 
-<img src="https://visitcount.itsvg.in/api?id=jahanzaib-10&icon=1&color=4" alt="visitor count" />
+
+<p align="center">
+  <a href="https://github.com/jahanzaib-10/jahanzaib-10">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjahanzaib-10%2Fjahanzaib-10&countColor=%23263759" alt="Visitor Count" />
+  </a>
+</p>
 
 ---
 
