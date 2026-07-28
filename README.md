@@ -43,14 +43,10 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 
 ---
 
-## 🐍 GitHub Contribution Snake Game
+## 📊 GitHub Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanzaib-10/jahanzaib-10/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahanzaib-10/jahanzaib-10/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jahanzaib-10/jahanzaib-10/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahanzaib-10&theme=radical&hide_border=true&radius=16" alt="GitHub Activity Graph" />
 </div>
 
 ---
