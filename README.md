@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Muhammad Jahanzaib Azhar
 **AI/ML Enthusiast | BS Artificial Intelligence Student from Islamabad, Pakistan**
 
-Email Me 👉 ✉️ **muhammadjahanzaibazhar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** AI, Machine Learning, and Deep Learning projects using Python
 - 🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, Deep Learning, and advanced Python
 - 👯 **I’m looking to collaborate on:** Beginner-friendly AI/ML projects
