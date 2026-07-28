@@ -49,21 +49,10 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 ---
  
 ### 📊 GitHub Stats
- 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-10&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-10&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-10&show_icons=true&count_private=true&theme=vue-dark" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-10&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=jahanzaib-10&theme=dark" />
 </p>
-**Top Repositories**
- 
-<div align="center">
-<a href="https://github.com/jahanzaib-10/ai-day4-feature-engineering-ml-jahanzaib">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jahanzaib-10&repo=ai-day4-feature-engineering-ml-jahanzaib&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-<a href="https://github.com/jahanzaib-10/ai-day3-eda-project">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jahanzaib-10&repo=ai-day3-eda-project&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-</div>
