@@ -43,21 +43,8 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 
 ---
 
-## 📊 GitHub Contribution Calendar
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-10&theme=dark&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-10&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=jahanzaib-10&theme=radical" alt="Profile Summary Card" />
-</div>
----
-
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=jahanzaib-10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
@@ -66,7 +53,6 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-10&theme=dark&hide_border=false)
 
 ---
 
@@ -84,6 +70,7 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahanzaib-10&limit=5&theme=dark&combine_all_yearly_contributions=true)
