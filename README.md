@@ -1,13 +1,18 @@
-# 💫 Hi 👋, I'm Muhammad Jahanzaib Azhar
-**AI/ML Enthusiast | BS Artificial Intelligence Student from Islamabad, Pakistan**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Jahanzaib Azhar
+=================================================================================================================================================
 
-- 🔭 **I’m currently working on:** AI, Machine Learning, and Deep Learning projects using Python
-- 🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, Deep Learning, and advanced Python
-- 👯 **I’m looking to collaborate on:** Beginner-friendly AI/ML projects
-- 🤔 **I’m looking for help with:** Deep Learning and Neural Networks
-- 💬 **Ask me about:** C++, OOP, Data Structures & Algorithms, Artificial Intelligence, and Machine Learning basics
-- 📫 **How to reach me:** muhammadjahanzaibazhar@gmail.com
-- ⚡ **Fun fact:** I love coding and building intelligent systems
+### AI/ML Enthusiast | BS Artificial Intelligence Student
+ 
+I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation in C++, Object-Oriented Programming, and Data Structures & Algorithms. I'm currently building my skills in Artificial Intelligence, Machine Learning and Deep Learning, and I've completed a Machine Learning course on Coursera. I enjoy working on hands-on data science projects to grow as an AI/ML engineer.
+ 
+- 🌍 I'm based in **Islamabad, Pakistan**
+- ✉️ You can contact me at **muhammadjahanzaibazhar@gmail.com**
+- 🚀 I'm currently working on **AI, Machine Learning, and Deep Learning projects using Python**
+- 🧠 I'm currently learning **Artificial Intelligence,Machine Learning, Deep Learning, and advanced Python**
+- 👯 I'm looking to collaborate on **beginner-friendly AI/ML projects**
+- 🤝 I'm looking for help with **Deep Learning and Neural Networks**
+- 💬 Ask me about **C++, OOP, Data Structures & Algorithms, Artificial Intelligence, and Machine Learning basics**
+---
 
 ## 🚀 Featured Projects:
 
