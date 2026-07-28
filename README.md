@@ -42,22 +42,18 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahanzaib-10&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Jahanzaib's Trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=jahanzaib-10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=jahanzaib-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ---
 
 ## 🌐 Socials & Stats
@@ -74,7 +70,6 @@ I'm a BS Artificial Intelligence student (3rd semester) with a strong foundation
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahanzaib-10&limit=5&theme=dark&combine_all_yearly_contributions=true)
